@@ -1,7 +1,3 @@
-# OSCP Complete Notes — Halie
-
----
-
 ## General Tips & Gotchas
 
 - **No GPU on Kali VM** — use John (CPU) for all cracking. hashcat OpenCL fails.
