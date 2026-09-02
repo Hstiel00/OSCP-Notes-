@@ -1,6 +1,3 @@
-# OSCP Complete Notes — Halie
-
----
 
 ## General Tips & Gotchas
 
